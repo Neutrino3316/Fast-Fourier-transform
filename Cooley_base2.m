@@ -6,7 +6,7 @@ function [F] = Cooley_base2(f)
     end
     
     for j=1:N
-        F(1:M, j) = myfft(F(1:M, j)')';
+        F(1:M, j) = myfft(F(1:M, j));
     end
 end
 
