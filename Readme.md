@@ -8,7 +8,7 @@
 
 - [FTT维基英文](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 
-- [库利-图基算法](https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm)
+- [库利-图基算法英文](https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm)
 
 ###  二、实验架构：
 
@@ -25,3 +25,11 @@
 1. 衡量计算时间
 2. 评估算法与普通DFT的准确度
 3. 利用监视窗口查看空间复杂度
+
+
+
+# 实验进度
+
+- [x] 框架
+- [x] Cooley–Tukey FFT algorithm base 2
+- [ ] Cooley–Tukey FFT algorithm base 4
